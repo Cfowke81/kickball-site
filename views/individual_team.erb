@@ -1,0 +1,14 @@
+<body>
+  <h1>The LACKP Teams</h1>
+
+  <a id ="team_name"><%= @team_name %></a>
+
+  <ul>
+  <% @team_roster.each do |position, name| %>
+    <li><button id="<%= name.to_s.downcase.gsub(" ", "_") %>"></button> <%= name %> <%= "-" %> <%= position %></li>
+  <% end %>
+  </ul>
+
+
+  <button id="home"><a href="/">Home</button></a>
+</body>

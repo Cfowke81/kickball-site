@@ -1,0 +1,406 @@
+/* CSS goes here */
+
+h1 {
+  font-style: oblique;
+}
+
+body {
+  background-color: #7FFFD4;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  font-family: Sans-serif;
+  font-weight: bold;
+}
+
+#home {
+  display: inline-block;
+  font-family: Sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  vertical-align: middle;
+  line-height: 50px;
+  border-radius: 25px;
+  box-sizing: border-box;
+  padding: 0px;
+  background-color: #F8F8FF;
+  background-size: 50px 80px;
+  height: 50px;
+  width: 100px;
+}
+
+#team_name {
+  font-family: Sans-serif;
+  font-weight: bold;
+}
+
+a:link, a:visited {
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#simpson_slammers {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "http://photodesk.chicagotribune.com.s3.amazonaws.com/Graphics/ct-edit-simpsons/sports-homer-at-bat.jpg");
+  background-size: 100px 130px;
+  height: 100px;
+  width: 100px;
+}
+
+#jetson_jets {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "http://4.bp.blogspot.com/-UeGllsuyCV0/UdByxMi_kyI/AAAAAAAABgQ/rK3qEm5pQIo/s900/Jetsons_900x675.jpg");
+  background-size: 100px 130px;
+  height: 100px;
+  width: 100px;
+}
+
+#flintstone_fire {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "http://www.dvdizzy.com/images/f/flintstones-specials-vol1-06.jpg");
+  background-size: 100px 130px;
+  height: 100px;
+  width: 100px;
+}
+
+#griffin_goats {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://i.ytimg.com/vi/gct59ECS6p4/maxresdefault.jpg");
+  background-size: 100px 130px;
+  height: 100px;
+  width: 100px;
+}
+
+#bart_simpson {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#homer_simpson {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://thenypost.files.wordpress.com/2016/09/tv_simpsons_homer1-1a.jpg?quality=90&strip=all&strip=all");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#marge_simpson {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#lisa_simpson {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#ned_flanders {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/8/84/Ned_Flanders.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#barney_gumble {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/d/de/Barney_Gumble.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#monty_burns {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "http://images.forbes.com/media/lists/fictional/2011/c-montgomery-burns_197x282.jpg");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#waylon_smithers {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/8/86/Waylon_Smithers_1.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#clancy_wiggum {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/7/7a/Chief_Wiggum.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#george_jetson {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "http://allthingsclipart.com/images_01c/george.jetson.01.jpg");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#jane_jetson {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "http://www.artinsights.com/wp-content/uploads/2014/03/Jane_Jetson.jpg");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#judy_jetson {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "http://burnettsboards.com/wp-content/uploads/2012/09/jetsonscolor3.jpg");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#elroy_jetson {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://s-media-cache-ak0.pinimg.com/originals/ec/97/3a/ec973a9976eb20b3a2611e120da7bc94.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#astro_jetson {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://s-media-cache-ak0.pinimg.com/236x/fa/58/57/fa5857e913de322551ef5ee7bb89462d.jpg");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#orbitty_jetson {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "http://img08.deviantart.net/8de2/i/2007/138/e/3/orbitty_by_twintwosgirl.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#cosmo_spacely {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "http://www.aveleyman.com/Gallery/ActorsB/tve1640-19620923-180.jpg");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#rosie_jetson {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://s-media-cache-ak0.pinimg.com/originals/54/fd/79/54fd793349290f492d7bf6c68ecb90f4.gif");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#stella_spacely {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "http://www.80stoons.com/jetsons-mrs-spacely-headshot.jpg");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#lois_griffin {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/a/a5/Lois_Griffin.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#brian_griffin {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Brian_Griffin.png/195px-Brian_Griffin.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#peter_griffin {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "http://pre04.deviantart.net/3864/th/pre/i/2015/193/d/4/peter_griffin__family_guy__29_by_frasier_and_niles-d90zuko.jpg");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#stewie_griffin {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://s-media-cache-ak0.pinimg.com/originals/b1/bf/ac/b1bfac67bd880546d3621325a3b491c4.gif");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#chris_griffin {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/d/df/Chris_Griffin.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#glenn_quagmire {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/f/fe/Glenn_Quagmire.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#cleveland_brown {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/e/e4/Cleveland_Brown.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#tom_tucker {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://theoffdutymime.files.wordpress.com/2012/07/tom.jpg");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#meg_griffin {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/c/c7/Meg_Griffin.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#fred_flintstone {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Fred_Flintstone.png/165px-Fred_Flintstone.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#wilma_flintstone {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/9/97/Wilma_Flintstone.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#dino_flintstone {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/f/f7/Dino_from_%22The_Flintstones%22.gif");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#barney_rubble {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Barney_Rubble.png/160px-Barney_Rubble.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#betty_rubble {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://upload.wikimedia.org/wikipedia/en/5/5e/Betty_Rubble.png");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#pebbles_flintstone {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://s-media-cache-ak0.pinimg.com/236x/a6/0b/3a/a60b3aa0b50c10e4c18d1b09114138ee.jpg");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#joe_rockhead {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://s-media-cache-ak0.pinimg.com/236x/ed/b2/c6/edb2c6fb64931d9dc2590001670038d6.jpg");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#sam_slagheap {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "https://s12.postimg.org/4r31sdg0d/fraternal_poohbah.jpg");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}
+
+#sylvester_slate {
+  border-radius: 25px;
+  padding: 20px;
+  background-image: url( "http://images2.fanpop.com/images/quiz/195000/195078_1240423577159_199_255.jpg");
+  background-size: 50px 80px;
+  height: 50px;
+  width: 50px;
+}

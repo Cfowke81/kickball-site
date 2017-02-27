@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+  <body>
+    <h1>The LACKP Teams</h1>
+
+    <ul>
+      <% @teams.each do |team| %>
+        <li><a href="/teams/<%= team %>">
+          <button id="<%= team.to_s.downcase.gsub(" ", "_") %>"></button> <%= team %></a></li>
+      <% end %>
+    </ul>
+
+    <a href="/"><button id="home">Home</a>
+  </body>
+</html>
